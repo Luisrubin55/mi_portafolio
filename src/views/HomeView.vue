@@ -81,7 +81,9 @@ const claseVisible = computed(() => {
   </header>
 
   <main class="container-xl ">
-    <Presentacion/>
+    <div id="home">
+        <Presentacion/>
+    </div>
     <section id="sobreMi">
       <SobreMi/>
     </section >
