@@ -11,7 +11,7 @@ import Contacto from '@/components/Contacto.vue'
 <template>
   <MainNav/>
 
-  <main class="container-xl mt-16">
+  <main class="container-xl ">
     <Presentacion/>
     <section>
       <SobreMi/>
