@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <div class="  py-5 md:py-14 lg:py-20 mb-0 lg:gap-40 md:gap-40 flex flex-col-reverse items-center md:flex-row bg-gradient-to-r from-slate-900 from-10% via-sky-900 via-30% to-cyan-900 to-90%">
+    <div class=" py-5 md:py-14 lg:py-20 mb-0 lg:gap-40 md:gap-40 flex flex-col-reverse items-center md:flex-row bg-gradient-to-r from-slate-900 from-10% via-sky-900 via-30% to-cyan-900 to-90%">
         <div class="md:w-1/2 ml-10">
             <h1 class="text-white text-2xl md:text-3xl lg:text-5xl text-center mt-7 ">Ing. Luis Armando Arenas</h1>
             <h3 class="mt-6 text-emerald-400 lg:text-5xl font-extrabold text-2xl">Desarrollador Front-End Jr</h3>
