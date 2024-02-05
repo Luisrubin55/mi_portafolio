@@ -4,19 +4,19 @@
         <h1 class="text-white text-3xl font-bold">Contacto</h1>
         <div class="grid mt-10 lg:grid-cols-4 md:grid-cols-2 md:gap-7 md:ml-20 gap-4 lg:gap-36">
             <div class="self-center">
-                <a href="" class="flex items-center gap-4">
+                <a href="https://api.whatsapp.com/send?phone=5511189830&text=Hola" class="flex items-center gap-4">
                     <img class="w-20 bg-white rounded-full animate-pulse" src="/img/icons/whatsapp.svg" alt="icono">
                     <p class="text-white font-bold text-xl hover:text-emerald-400 transition delay-75">WhatsApp</p>
                 </a>
             </div>
             <div class="">
-                <a href="" class="flex items-center  gap-4">
+                <a href="https://www.facebook.com/profile.php?id=100016855786362" class="flex items-center  gap-4">
                     <img class="w-20 bg-white rounded-full animate-pulse" src="/img/icons/facebook.svg" alt="icono">
                     <p class="text-white font-bold text-xl hover:text-emerald-400 transition delay-75">Facebook</p>
                 </a>
             </div>
             <div class="">
-                <a href="" class="flex items-center gap-4">
+                <a href="https://www.linkedin.com/in/luis-armando-arenas/" class="flex items-center gap-4">
                     <img class="w-20 bg-white rounded-full animate-pulse" src="/img/icons/linkedin-color.svg" alt="">
                     <p class="text-white font-bold text-xl hover:text-emerald-400 transition delay-75">Linkedin</p>
                 </a>

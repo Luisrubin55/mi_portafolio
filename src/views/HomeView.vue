@@ -30,7 +30,7 @@ const claseVisible = computed(() => {
 
 <template>
   <header>
-    <nav class="flex items-center justify-between flex-wrap bg-gradient-to-r from-slate-900 from-10% via-sky-900 via-30% to-cyan-900 to-90% p-6">
+    <nav class="flex items-center justify-between flex-wrap bg-gradient-to-r from-slate-900 from-10% via-sky-900 via-30% to-cyan-900 to-90% p-3">
         <div class="flex items-center flex-shrink-0 text-white mr-6">
             <span class="font-bold text-2xl tracking-tight">Portafolio</span>
         </div>
