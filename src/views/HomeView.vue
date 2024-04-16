@@ -17,9 +17,6 @@ const menuHamburgueza = () => {
     }
 }
 
-const secciones = (seccion) => {
-    
-}   
 
 
 const claseVisible = computed(() => {

@@ -9,7 +9,7 @@
             <h1 class="text-white text-2xl md:text-3xl lg:text-5xl text-center mt-7 ">Ing. Luis Armando Arenas</h1>
             <h3 class="mt-6 text-emerald-400 lg:text-5xl font-extrabold text-2xl">Desarrollador Front-End Jr</h3>
             <p class="text-white text-xl mt-8">Con mas de 4 años de
-                experiencia el desarrollo de web. Mi enfoque se centra en tecnologías Front-End, como HTML5, CSS,
+                experiencia el desarrollo web. Mi enfoque se centra en tecnologías Front-End, como HTML5, CSS,
                 JavaScript, SASS y frameworks como Vue.js y React, siempre aprendiendo y aplicando las mejores practicas con
                 diferentes herramientas</p>
 
@@ -29,8 +29,8 @@
             </div>
         </div>
 
-        <div class="mt-2 mb-4 lg:mt-0 lg:mb-0 w-3/1">
-            <img class="w-80 rounded-full bg-white h-96 bg-gradient-to-r from-slate-900 from-10% via-sky-500 via-60% to-slate-900 to-100%" src="/img/perfil.png" alt="imagen logo">
+        <div class="mt-2 mr-8 ml-8 mb-4 lg:mt-0 lg:mb-0 w-3/1">
+            <img class="w-auto rounded-2xl bg-white h-60 md:h-96 bg-gradient-to-r from-slate-900 from-10% via-sky-500 via-60% to-slate-900 to-100%" src="/img/laptop.jpg" alt="imagen logo">
         </div>
     </div>
 </template>

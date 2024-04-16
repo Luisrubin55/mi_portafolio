@@ -14,14 +14,13 @@
                 </div>
                 <div class="p-3 flex flex-col gap-6">
                     <h1 class="text-3xl font-bold text-white ">Buscador de clima</h1>
-                    <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus nemo
-                        sequi, reiciendis fuga obcaecati.</p>
+                    <p class="text-white">Proyecto construido con Vue.js, CSS3 y JavaScript, que permite consultar el clima de diversas ciudades de distintos países que soporta la API. </p>
                     <h3 class="text-white text-2xl font-bold">Tecnologías Usadas</h3>
                     <div class="flex gap-4">
-                        <img class="w-14" src="/img/icons/vue.js.svg" alt="">
-                        <img class="w-14" src="/img/icons/tailwind.svg" alt="">
-                        <img class="w-14" src="/img/icons/javascript.svg" alt="">
-                        <img class="w-14" src="/img/icons/react.svg" alt="">
+                        <img class="w-14" src="/img/icons/vue.js.svg" alt="Icono tecnologia">
+                        <img class="w-14" src="/img/icons/css.svg" alt="Icono tecnologia">
+                        <img class="w-14" src="/img/icons/javascript.svg" alt="Icono tecnologia">
+                        <img class="w-14" src="/img/icons/react.svg" alt="Icono tecnologia">
                     </div>
                     <div class="mt-0 mb-5">
                         <span class="relative flex h-3 w-3">
@@ -43,14 +42,13 @@
                 </div>
                 <div class="p-3 flex flex-col gap-6">
                     <h1 class="text-3xl font-bold text-white ">Tienda de Guitarras</h1>
-                    <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus nemo
-                        sequi, reiciendis fuga obcaecati.</p>
+                    <p class="text-white text-justify">Este proyecto está construido con React.js, Remix, CSS y JavaScript que permite ver productos desde una base de datos hecha con Strapi y agregarlos a un carrito de compras utilizando JavaScript y LocalStorage.</p>
                     <h3 class="text-white text-2xl font-bold">Tecnologías Usadas</h3>
                     <div class="flex gap-4">
-                        <img class="w-14" src="/img/icons/vue.js.svg" alt="">
-                        <img class="w-14" src="/img/icons/css.svg" alt="">
-                        <img class="w-14" src="/img/icons/javascript.svg" alt="">
-                        <img class="w-14" src="/img/icons/react.svg" alt="">
+                        <img class="w-14" src="/img/icons/vue.js.svg" alt="Imagen Icono">
+                        <img class="w-14" src="/img/icons/css.svg" alt="Imagen Icono">
+                        <img class="w-14" src="/img/icons/javascript.svg" alt="Imagen Icono">
+                        <img class="w-14" src="/img/icons/react.svg" alt="Imagen Icono">
                         
                     </div>
                     <div class="mt-0 mb-5">
@@ -73,14 +71,13 @@
                 </div>
                 <div class="p-3 flex flex-col gap-6">
                     <h1 class="text-3xl font-bold text-white ">Seguimiento de Pacientes</h1>
-                    <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus nemo
-                        sequi, reiciendis fuga obcaecati.</p>
+                    <p class="text-white text-justify">Para la construcción de este proyecto se utilizó Vue.js, Tailwindcss, para el diseño de la interfaz mientras que para la funcionalidad se utilizó JavaScript. Este proyecto permite la creación de citas de pacientes para una veterinaria.Imagen Icono</p>
                     <h3 class="text-white text-2xl font-bold">Tecnologías Usadas</h3>
                     <div class="flex gap-4">
-                        <img class="w-14" src="/img/icons/vue.js.svg" alt="">
-                        <img class="w-14" src="/img/icons/tailwind.svg" alt="">
-                        <img class="w-14" src="/img/icons/javascript.svg" alt="">
-                        <img class="w-14" src="/img/icons/react.svg" alt="">
+                        <img class="w-14" src="/img/icons/vue.js.svg" alt="Imagen Icono">
+                        <img class="w-14" src="/img/icons/tailwind.svg" alt="Imagen Icono">
+                        <img class="w-14" src="/img/icons/javascript.svg" alt="Imagen Icono">
+                        <img class="w-14" src="/img/icons/react.svg" alt="Imagen Icono">
                         
                     </div>
                     <div class="mt-0 mb-5">
@@ -103,8 +100,7 @@
                 </div>
                 <div class="p-3 flex flex-col gap-6">
                     <h1 class="text-3xl font-bold text-white ">Moda Viva</h1>
-                    <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus nemo
-                        sequi, reiciendis fuga obcaecati.</p>
+                    <p class="text-white text-justify">Este proyecto consta de un punto de venta de una tienda de moda la cual para su construcción se utilizaron herramientas como Vue.js, Tailwindcss, JavaScript para la funcionalidad y finalmente Firebase para la base de datos.</p>
                     <h3 class="text-white text-2xl font-bold">Tecnologías Usadas</h3>
                     <div class="flex gap-4">
                         <img class="w-14" src="/img/icons/vue.js.svg" alt="">
@@ -136,8 +132,7 @@
                 </div>
                 <div class="p-3 flex flex-col gap-6">
                     <h1 class="text-3xl font-bold text-white ">Cocktail API</h1>
-                    <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus nemo
-                        sequi, reiciendis fuga obcaecati.</p>
+                    <p class="text-white text-justify">La construcción de este proyecto se basó en el uso de la API “TheCocktailDB” la cual para el diseño se utilizó Vue.js CSS Y JavaScript para la funcionalidad, el proyecto permite la consulta de recetas de bebidas de acuerdo a categorías e ingredientes así como la opción de agregarlas a favoritos.</p>
                     <h3 class="text-white text-2xl font-bold">Tecnologías Usadas</h3>
                     <div class="flex gap-4">
                         <img class="w-14" src="/img/icons/vue.js.svg" alt="">
